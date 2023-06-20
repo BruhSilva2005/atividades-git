@@ -1,0 +1,11 @@
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\bin\Debug\auladeForms.exe.config
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\bin\Debug\auladeForms.exe
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\bin\Debug\auladeForms.pdb
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.Properties.Resources.resources
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.csproj.GenerateResource.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.exe
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.pdb
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\auladeForms\auladeForms\obj\Debug\auladeForms.Form1.resources

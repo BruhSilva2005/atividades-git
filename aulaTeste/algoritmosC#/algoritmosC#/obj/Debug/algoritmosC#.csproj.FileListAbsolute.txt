@@ -1,0 +1,8 @@
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\bin\Debug\algoritmosC#.exe.config
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\bin\Debug\algoritmosC#.exe
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\bin\Debug\algoritmosC#.pdb
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\obj\Debug\algoritmosC#.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\obj\Debug\algoritmosC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\obj\Debug\algoritmosC#.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\obj\Debug\algoritmosC#.exe
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\algoritmosC#\algoritmosC#\obj\Debug\algoritmosC#.pdb

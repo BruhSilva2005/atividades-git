@@ -1,0 +1,5 @@
+﻿Compilação iniciada...
+1>------ Compilação iniciada: Projeto: aulaC#, Configuração: Debug Any CPU ------
+1>  aulaC# -> C:\Users\bruna.ssantos102\source\repos\aulaTeste\aulaC#\aulaC#\bin\Debug\aulaC#.exe
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação começou em 4:43 PM e levou 00,252 segundos ==========

@@ -1,0 +1,8 @@
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\bin\Debug\atividadeC#.exe.config
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\bin\Debug\atividadeC#.exe
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\bin\Debug\atividadeC#.pdb
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\obj\Debug\atividadeC#.csproj.AssemblyReference.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\obj\Debug\atividadeC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\obj\Debug\atividadeC#.csproj.CoreCompileInputs.cache
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\obj\Debug\atividadeC#.exe
+C:\Users\bruna.ssantos102\source\repos\aulaTeste\atividadeC#\atividadeC#\obj\Debug\atividadeC#.pdb

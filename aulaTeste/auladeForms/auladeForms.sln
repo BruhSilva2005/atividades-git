@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "auladeForms", "auladeForms\auladeForms.csproj", "{0868D41E-D0C3-43F4-8103-22969A01D61B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0868D41E-D0C3-43F4-8103-22969A01D61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0868D41E-D0C3-43F4-8103-22969A01D61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0868D41E-D0C3-43F4-8103-22969A01D61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0868D41E-D0C3-43F4-8103-22969A01D61B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE8A5A1F-743E-4395-816B-CB324C95DC76}
+	EndGlobalSection
+EndGlobal
